@@ -1,0 +1,33 @@
+.nav-item {
+  display: flex;
+  height: 25vh;
+  justify-content: space-between;
+  align-items: center;
+}
+.wave-image {
+  width: 30px;
+}
+.logo-image-container {
+  display: flex;
+  align-items: center;
+}
+.wave {
+  color: #6d396b;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.nav-list-items {
+  display: flex;
+  padding-left: 0px;
+}
+.link-item {
+  list-style-type: none;
+}
+.route-link {
+  color: #000000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: 16px;
+}

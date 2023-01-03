@@ -1,0 +1,22 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-image {
+  width: 70%;
+}
+.heading {
+  font-size: 40px;
+  font-weight: 400;
+  color: #551e53;
+  font-family: 'Roboto';
+  margin: 15px;
+}
+.description {
+  font-size: 17px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #555555;
+}
